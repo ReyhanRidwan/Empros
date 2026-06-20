@@ -1,0 +1,6 @@
+{
+  "name": "Empros",
+  "description": "Jasa Konstruksi Premium - Kokoh, Presisi, dan Dibangun untuk Generasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
